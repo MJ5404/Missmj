@@ -2,7 +2,8 @@
 
 # Hi there, I'm [Missmj]! 👋
 
-![Banner Image](https://pin.it/X6RGtpvs0)
+![Banner Image](<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e24217a4-fce5-4111-9683-bafe7fb74ff7" />
+)
 
 ## About Me 🚀
 
