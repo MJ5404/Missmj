@@ -1,6 +1,6 @@
 # Missmj
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Missmj]! 👋
 
 ![Banner Image](https://pin.it/X6RGtpvs0)
 
